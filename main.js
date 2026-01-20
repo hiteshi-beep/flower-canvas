@@ -11,6 +11,7 @@ const pointer = {
 }
 setTimeout(() => {
   pointer.x = 0.75
+  pointer.x = 0.75
   pointer.y = 0.5
   pointer.clicked = true
 }, 700)
